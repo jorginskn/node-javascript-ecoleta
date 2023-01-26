@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- <img src="https://github.com/jorginskn/node-javascript-ecoleta/issues/1#issue-1558555594" alt="PRs welcome!" />
+ <img src="https://user-images.githubusercontent.com/77112497/214914948-96bd988b-3c4f-45bf-9778-8247687e6358.png" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 </p>
